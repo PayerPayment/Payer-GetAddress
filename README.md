@@ -17,6 +17,12 @@ For more information about our payment services, please visit [www.payer.se](htt
   * Run `composer require payer/get-address` to install the package
   * See the examples in `docs/examples` for further usage
 
+## Examples
+To be able to run the `GetAddressExample.php` you need to have a valid jquery library imported. Enter `bower install` to download the already attached library.
+
+**Note:** You need to have bower locally installed on your device to be able to install bower components. Download bower [here](https://bower.io/).
+
+
 ## Support
 
 For questions regarding your Payer SDK integration, please contact the Payer [Technican Support](mailto:teknik@payer.se).
