@@ -6,6 +6,6 @@ external
 composer.lock
 resources
 node_modules
-gulpfile.json
+gulpfile.js
 webpack.config.js
 package.json
