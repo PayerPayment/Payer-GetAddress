@@ -77,17 +77,12 @@ class PayerChallenge
      */
     public function fetchToken()
     {
-        try {
-            $challange = new Challenge($this->_gateway);
-            $challengeResponse = Response::fromJson(
-                $challange->create()
-            );
+        $challange = new Challenge($this->_gateway);
+        $challengeResponse = Response::fromJson(
+            $challange->create()
+        );
 
-            return $challengeResponse['challenge_token'];
-
-        } catch (PayerException $e) {
-            echo $e->getMessage();
-        }
+        return $challengeResponse['challenge_token'];
     }
 
 }
