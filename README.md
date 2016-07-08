@@ -25,4 +25,4 @@ To be able to run the `GetAddressExample.php` you need to have a valid jquery li
 
 ## Support
 
-For questions regarding your Payer SDK integration, please contact the Payer [Technican Support](mailto:teknik@payer.se).
+For questions regarding your Payer GetAddress integration, please contact the Payer [Technican Support](mailto:teknik@payer.se).
