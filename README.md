@@ -1,6 +1,8 @@
+![Payer Logotype](http://payer.se/public/PAYER_LOGO_GITHUB_2016.jpg)
+
 # Payer GetAddress
 
-Improve your checkout experience by integrate this plugin that let you be able to fetch customer details from Payer.
+Improve your checkout experience by letting your customers fetch their personal details from Payer.
 
 For more information about our payment services, please visit [www.payer.se](http://www.payer.se).
 
@@ -20,8 +22,7 @@ For more information about our payment services, please visit [www.payer.se](htt
 ## Examples
 To be able to run the `GetAddressExample.php` you need to have a valid jquery library imported. Enter `bower install` to download the already attached library.
 
-**Note:** You need to have bower locally installed on your device to be able to install bower components. Download bower [here](https://bower.io/).
-
+**Note:** You need to have bower locally installed in your environment to be able to install bower components. Download bower [here](https://bower.io/).
 
 ## Support
 

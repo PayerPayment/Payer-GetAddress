@@ -26,15 +26,20 @@
  *
  * To be able to run the example you have to setup your Payer Credentials.
  *
+ * Your credentials can be found in the Account section in Payer Administration.
+ *
  * For further questions about your configuration, please contact
  * the customer service at kundtjanst@payer.se
  *
  */
 
 $credentials = array(
+
     'agent_id' => '',
+
     'post' => array(
         'key_1'             => '',
         'key_2'             => ''
-    )
+    ),
+
 );

@@ -33,7 +33,7 @@ require_once "../../vendor/autoload.php";
         <title>Payer Get Address 2.0 Demo</title>
 
         <link type="text/css" href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" />
-        <link type="text/css" href="assets/css/payer_getadress.css" rel="stylesheet" />
+        <link type="text/css" href="assets/css/payer_getaddress.css" rel="stylesheet" />
     </head>
     <body>
 
