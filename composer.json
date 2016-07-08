@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "name": "payer/get-address",
+    "description": "A plugin used to fetch customer details from Payer",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Mathias Åkerberg",
+            "email": "mathias.akerberg@payer.se"
+        }
+    ],
+    "require": {
+        "payer/sdk": "1.*.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Payer\\": "src"
+        }
+    }
+}
