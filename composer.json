@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "payer/sdk": "*"
+        "payer/sdk": "1.1.2"
     },
     "autoload": {
         "psr-4": {
