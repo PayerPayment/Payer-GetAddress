@@ -62,10 +62,7 @@ require_once "../../vendor/autoload.php";
 
         </div>
 
-        <!-- NOTICE: The Jquery Library is mandatory to be able to run this example.
-                     Include your own library or unmark this below and run
-             'bower install' in the directory root
-        <!-- <script src="../../external/jquery/dist/jquery.min.js"></script> -->
+        <script src="../../external/jquery/dist/jquery.min.js"></script>
 
         <?php
 
