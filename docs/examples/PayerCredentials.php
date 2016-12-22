@@ -34,12 +34,12 @@
  */
 
 $credentials = array(
+    
+    // 'agent_id' => '',
 
-    'agent_id' => '',
-
-    'post' => array(
-        'key_1'             => '',
-        'key_2'             => ''
-    )
+    // 'post' => array(
+    //     'key_1'             => '',
+    //     'key_2'             => ''
+    // )
 
 );
