@@ -78,7 +78,6 @@ class PayerChallenge
         $challenge = new Challenge($this->_gateway);
         $challengeResponse = $challenge->create();
 
-        var_dump($challengeResponse);
         return $challengeResponse['challenge_token'];
     }
 
