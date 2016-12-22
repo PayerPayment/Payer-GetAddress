@@ -2,6 +2,14 @@
         PAYER GET ADDRESS CHANGELOG
 ***************************************
 
+v1.0.1
+----------------
+Date: 2016-12-07
+
+    Payer <teknik@payer.se>
+        Changed Challenge response format handling
+
+
 v1.0.0
 ----------------
 Date: 2016-07-07

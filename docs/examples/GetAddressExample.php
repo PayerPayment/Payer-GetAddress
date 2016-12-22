@@ -63,7 +63,7 @@ require_once "../../vendor/autoload.php";
         </div>
 
         <!-- Optional dependencies -->
-        <script src="../../external/jquery/dist/jquery.min.js"></script>
+        <!-- <script src="../../external/jquery/dist/jquery.min.js"></script> -->
 
         <?php
 

@@ -23,10 +23,8 @@
  */
 
 use Payer\Sdk\Client;
-use Payer\Sdk\Exception\PayerException;
+USE Payer\Sdk\Exception\PayerException;
 use Payer\Sdk\Resource\Challenge;
-use Payer\Sdk\Resource\GetAddress;
-use Payer\Sdk\Transport\Http\Response;
 
 class PayerChallenge
 {
@@ -77,11 +75,10 @@ class PayerChallenge
      */
     public function fetchToken()
     {
-        $challange = new Challenge($this->_gateway);
-        $challengeResponse = Response::fromJson(
-            $challange->create()
-        );
+        $challenge = new Challenge($this->_gateway);
+        $challengeResponse = $challenge->create();
 
+        var_dump($challengeResponse);
         return $challengeResponse['challenge_token'];
     }
 

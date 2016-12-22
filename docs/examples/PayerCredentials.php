@@ -40,6 +40,6 @@ $credentials = array(
     'post' => array(
         'key_1'             => '',
         'key_2'             => ''
-    ),
+    )
 
 );
