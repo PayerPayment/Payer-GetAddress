@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "payer/get-address",
     "description": "A plugin used to fetch customer details from Payer",
     "type": "library",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "payer/sdk": "1.1.2"
+        "payer/sdk": "1.*"
     },
     "autoload": {
         "psr-4": {
