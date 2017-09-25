@@ -2,12 +2,19 @@
         PAYER GET ADDRESS CHANGELOG
 ***************************************
 
+v1.0.4
+----------------
+Date: 2017-09-25
+
+    Payer <teknik@payer.se>
+        Added CustomEvent polyfill
+
 v1.0.3
 ----------------
 Date: 2016-12-07
 
     Payer <teknik@payer.se>
-        Uppdated Sdk support
+        Updated Sdk support
 
 
 v1.0.2
